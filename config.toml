@@ -27,7 +27,7 @@ title = 'Catherine Hunt - Registered Child and Adolescent Psychotherapist (inter
     # services like Twitter or Slack want to generate a preview of a link to your site.
     # See https://gohugo.io/templates/internal#twitter-cards and
     # https://gohugo.io/templates/internal#open-graph.
-    images = ["images/background01.jpg"]
+    images = ["images/Background04.jpg"]
 
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
@@ -36,7 +36,7 @@ title = 'Catherine Hunt - Registered Child and Adolescent Psychotherapist (inter
 
     # This theme will, by default, inject a design-by-line at the bottom of the page.
     # You can turn it off, but we would really appreciate if you dont
-    # hidedesignbyline = true
+    hidedesignbyline = true
 
     [params.meta]
         keywords = "some, keywords, for, seo, you, know, google, duckduckgo, and, such"
