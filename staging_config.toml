@@ -1,9 +1,9 @@
-# baseURL = 'https://doughnutnz.github.io/childtherapy/'
-baseURL = 'https://www.shorekidstherapy.co.nz/'
+baseURL = 'https://doughnutnz.github.io//cat_scroll'
+# baseURL = 'https://www.shorekidstherapy.co.nz/'
 
-# Set the publish directory to match production requirements
-# publishDir = "docs"    # Staging directory
-publishDir = "public"    # Production directory
+# Set the publish directory to match staging requirements
+publishDir = "docs"    # Staging directory
+# publishDir = "public"    # Production directory
 
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
