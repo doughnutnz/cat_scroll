@@ -9,7 +9,7 @@ I am committed to offering ethical and confidential therapeutic interventions wi
 ![Catherine Hunt](images/Catherine-Hunt-2021-245x270-4.jpg)
 **Catherine Hunt** - Registered Child and Adolescent Psychotherapist    
 Member of the NZ Association of Psychotherapists (**MNZAP**)    
-Member NZ Association of Child & Adolescent Psychotherapy (**NZACAP**)
+<!--- Member NZ Association of Child & Adolescent Psychotherapy (**NZACAP**) --->
 
 ##### Qualifications
 + Masters of Health Science (Child & Adolescent Psychotherapy, AUT)
